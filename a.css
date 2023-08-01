@@ -1,14 +1,14 @@
 body{
-    background-color: #BDC3C7 ;
+    background-color: #FAD7A0;
+    margin: 0;
 }
 
 .parrafo{
-    background-color: #E5E7E9;
-    text-align: center;
+    text-justify: inter-word;
     width: 600px;
     margin: 0 auto;
-    color: #42586e;
-    font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2, h3{
@@ -16,13 +16,13 @@ h2, h3{
 }
 
 h2{
-    color: #641E16;
+    color: #A93226;
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h3{
-    color: #2173aa;
+    color: #1A5276;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
 }
